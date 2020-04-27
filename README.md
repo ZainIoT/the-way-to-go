@@ -1,5 +1,11 @@
-> 本书籍内容源自 https://github.com/unknwon/the-way-to-go_ZH_CN ，仅作二次开发，方便读者们阅读与学习。
+## 来源
 
-项目地址：https://github.com/ZainIoT/the-way-to-go
+本书籍内容源自 the-way-to-go_ZH_CN 项目，仅作内容整理，并制作了GitHub Pages，方便在线阅读与学习。
 
-书籍地址：https://zainiot.github.io/the-way-to-go/
+- **源项目地址：**[点击访问](https://github.com/ZainIoT/the-way-to-go)
+
+- **书籍地址：**[点击访问](https://zainiot.github.io/the-way-to-go/)
+
+## License
+
+[BSD 3-Clause License](LICENSE)
