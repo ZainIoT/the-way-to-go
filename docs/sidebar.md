@@ -1,3 +1,5 @@
+- [目录](directory.md)
+
 - [前言](preface.md)
 
 - 第一部分：学习 Go 语言
